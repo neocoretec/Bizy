@@ -1,9 +1,9 @@
 Privacy Policy for Bizy (Test Version)
 Effective Date: August 08 2024
-This privacy policy describes how Neocoretec handles user data in the test version of Bizy.
+This privacy policy describes how Neocoretec handles user data in this version of Bizy.
 
 #### Data Collection
-Currently, the test version of [Your Note App Name] does not collect any personal data from users. This includes:
+Currently, Bizy does not collect any personal data from users. This includes:
 No personally identifiable information: We do not collect names, email addresses, device identifiers, or any other information that could identify individual users.
 No usage data: We do not track how you use the app, including the notes you create, the photos you add, or any other interactions with the app.
 No camera data: While the app allows you to add photos to your notes, these photos are stored locally on your device and are not accessed or collected by us.
